@@ -1,0 +1,10 @@
+airport_id: 1367
+altitude: 359.0
+commercial_flights: 39108
+country: "France"
+distCity: 3168.9160512322183
+dst: "E"
+icao: "LFOB"
+timezone: "1"
+type: "airport"
+tz_database_timezone: "Europe/Paris"

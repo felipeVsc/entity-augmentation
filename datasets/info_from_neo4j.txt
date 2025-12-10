@@ -1,0 +1,433 @@
+Countries
+
+Brazil
+
+<id>: 4:6c2491da-222c-433a-a3da-327953072f31:98221
+agricultural_land: 33.9
+alpha3: "BRA"
+armed_forces: 730000.0
+birth_rate: 13.92
+calling_code: 55
+capital: "Brasilia"
+co2_emissions: 462299.0
+code: "BR"
+country_code: "076"
+cpi: 167.4
+cpi_change: 3.7
+currency_code: "BRL"
+education_primary: 115.4
+education_tertiary: 51.3
+fertility_rate: 1.73
+forested_area: 58.9
+gasoline_price: 1.02
+gdp: 1839758040766.0
+health_expenditure: 28.3
+infant_mortality: 12.8
+intermediate_region: "South America"
+intermediate_region_code: 5.0
+iso_3166_2: "ISO 3166-2:BR"
+labor_participation: 63.9
+land_area: 8515770.0
+language: "Portuguese"
+largest_city: "Sao Paulo"
+latitude: -14.235004
+life_expectancy: 75.7
+longitude: -51.92528
+maternal_mortality: 60.0
+minimum_wage: 1.53
+name: "Brazil"
+name2: "Brazil"
+physicians: 2.15
+population: 212559417.0
+region: "Americas"
+region_code: 19.0
+sub_region: "Latin America and the Caribbean"
+sub_region_code: 419.0
+tax_revenue: 14.2
+total_tax_rate: 65.1
+unemployment: 12.08
+urban_population: 183241641.0
+
+France
+
+<id>: 4:6c2491da-222c-433a-a3da-327953072f31:98266
+agricultural_land: 52.4
+alpha3: "FRA"
+armed_forces: 307000.0
+birth_rate: 11.3
+calling_code: 33
+capital: "Paris"
+co2_emissions: 303276.0
+code: "FR"
+country_code: "250"
+cpi: 110.05
+cpi_change: 1.1
+currency_code: "EUR"
+education_primary: 102.5
+education_tertiary: 65.6
+fertility_rate: 1.88
+forested_area: 31.2
+gasoline_price: 1.39
+gdp: 2715518274227.0
+health_expenditure: 6.8
+infant_mortality: 3.4
+intermediate_region: ""
+iso_3166_2: "ISO 3166-2:FR"
+labor_participation: 55.1
+land_area: 643801.0
+language: "French"
+largest_city: "Paris"
+latitude: 46.227638
+life_expectancy: 82.5
+longitude: 2.213749
+maternal_mortality: 8.0
+minimum_wage: 11.16
+name: "France"
+name2: "France"
+physicians: 3.27
+population: 67059887.0
+region: "Europe"
+region_code: 150.0
+sub_region: "Western Europe"
+sub_region_code: 155.0
+tax_revenue: 24.2
+total_tax_rate: 60.7
+unemployment: 8.43
+urban_population: 54123364.0
+
+Italy 
+
+<id>: 4:6c2491da-222c-433a-a3da-327953072f31:98300
+agricultural_land: 43.2
+alpha3: "ITA"
+armed_forces: 347000.0
+birth_rate: 7.3
+calling_code: 39
+capital: "Rome"
+co2_emissions: 320411.0
+code: "IT"
+country_code: "380"
+cpi: 110.62
+cpi_change: 0.6
+currency_code: "EUR"
+education_primary: 101.9
+education_tertiary: 61.9
+fertility_rate: 1.29
+forested_area: 31.8
+gasoline_price: 1.61
+gdp: 2001244392042.0
+health_expenditure: 22.8
+infant_mortality: 2.6
+intermediate_region: ""
+iso_3166_2: "ISO 3166-2:IT"
+labor_participation: 49.6
+land_area: 301340.0
+language: "Italian"
+largest_city: "Rome"
+latitude: 41.87194
+life_expectancy: 82.9
+longitude: 12.56738
+maternal_mortality: 2.0
+name: "Italy"
+name2: "Italy"
+physicians: 3.98
+population: 60297396.0
+region: "Europe"
+region_code: 150.0
+sub_region: "Southern Europe"
+sub_region_code: 39.0
+tax_revenue: 24.3
+total_tax_rate: 59.1
+unemployment: 9.89
+urban_population: 42651966.0
+
+Paraguay
+<id>: 4:6c2491da-222c-433a-a3da-327953072f31:98363
+agricultural_land: 55.1
+alpha3: "PRY"
+armed_forces: 27000.0
+birth_rate: 20.57
+calling_code: 595
+capital: "Asunci��"
+co2_emissions: 7407.0
+code: "PY"
+country_code: "600"
+cpi: 143.82
+cpi_change: 2.8
+currency_code: "PYG"
+education_primary: 104.4
+education_tertiary: 34.6
+fertility_rate: 2.43
+forested_area: 37.7
+gasoline_price: 1.04
+gdp: 38145288940.0
+health_expenditure: 36.5
+infant_mortality: 17.2
+intermediate_region: "South America"
+intermediate_region_code: 5.0
+iso_3166_2: "ISO 3166-2:PY"
+labor_participation: 72.1
+land_area: 406752.0
+language: "Spanish"
+largest_city: "Ciudad del Este"
+latitude: -23.442503
+life_expectancy: 74.1
+longitude: -58.443832
+maternal_mortality: 129.0
+minimum_wage: 1.55
+name: "Paraguay"
+name2: "Paraguay"
+physicians: 1.35
+population: 7044636.0
+region: "Americas"
+region_code: 19.0
+sub_region: "Latin America and the Caribbean"
+sub_region_code: 419.0
+tax_revenue: 10.0
+total_tax_rate: 35.0
+unemployment: 4.81
+urban_population: 4359150.0
+
+Argentina
+
+<id>: 4:6c2491da-222c-433a-a3da-327953072f31:98200
+agricultural_land: 54.3
+alpha3: "ARG"
+armed_forces: 105000.0
+birth_rate: 17.02
+calling_code: 54
+capital: "Buenos Aires"
+co2_emissions: 201348.0
+code: "AR"
+country_code: "032"
+cpi: 232.75
+cpi_change: 53.5
+currency_code: "ARS"
+education_primary: 109.7
+education_tertiary: 90.0
+fertility_rate: 2.26
+forested_area: 9.8
+gasoline_price: 1.1
+gdp: 449663446954.0
+health_expenditure: 17.6
+infant_mortality: 8.8
+intermediate_region: "South America"
+intermediate_region_code: 5.0
+iso_3166_2: "ISO 3166-2:AR"
+labor_participation: 61.3
+land_area: 2780400.0
+language: "Spanish"
+largest_city: "Buenos Aires"
+latitude: -38.416097
+life_expectancy: 76.5
+longitude: -63.616672
+maternal_mortality: 39.0
+minimum_wage: 3.35
+name: "Argentina"
+name2: "Argentina"
+physicians: 3.96
+population: 44938712.0
+region: "Americas"
+region_code: 19.0
+sub_region: "Latin America and the Caribbean"
+sub_region_code: 419.0
+tax_revenue: 10.1
+total_tax_rate: 106.3
+unemployment: 9.79
+urban_population: 41339571.0
+
+
+## Cities
+
+Sao Paulo
+
+<id>: 4:6c2491da-222c-433a-a3da-327953072f31:102523
+accent_name: "São Paulo"
+country: "Brazil"
+countrycode: "br"
+latitude: -23.473292999999998
+location: point({srid:4326, x:-46.665803000000004, y:-23.473292999999998})
+longitude: -46.665803000000004
+name: "sao paulo"
+population: 10021437.0
+region: 27
+
+Recife
+
+<id>: 4:6c2491da-222c-433a-a3da-327953072f31:102291
+accent_name: "Recife"
+country: "Brazil"
+countrycode: "br"
+latitude: -8.05
+location: point({srid:4326, x:-34.9, y:-8.05})
+longitude: -34.9
+name: "recife"
+population: 1478118.0
+region: 30
+
+Paris
+
+<id>: 4:6c2491da-222c-433a-a3da-327953072f31:98556
+accent_name: "Paris"
+climate_index: 88.4
+cost_of_living_index: 73.6
+country: "France"
+countrycode: "fr"
+health_care_index: 77.3
+latitude: 48.866667
+location: point({srid:4326, x:2.333333, y:48.866667})
+longitude: 2.333333
+name: "paris"
+pollution_index: 64.5
+population: 2110694.0
+property_price_to_income_ratio: 17.5
+purchasing_power_index: 97.5
+quality_of_life_index: 132.0
+rank: 118
+safety_index: 42.3
+traffic_commute_time_index: 41.3
+
+Orleans in Brazil
+
+<id>: 4:6c2491da-222c-433a-a3da-327953072f31:102045
+accent_name: "Orleans"
+country: "Brazil"
+countrycode: "br"
+latitude: -28.35
+location: point({srid:4326, x:-49.3, y:-28.35})
+longitude: -49.3
+name: "orleans"
+population: 16422.0
+region: 26
+
+Orleans
+
+<id>: 4:6c2491da-222c-433a-a3da-327953072f31:110463
+accent_name: "Orléans"
+country: "France"
+countrycode: "fr"
+latitude: 47.902891
+location: point({srid:4326, x:1.9038869999999999, y:47.902891})
+longitude: 1.9038869999999999
+name: "orleans"
+population: 118190.0
+
+## Airports
+
+GRU
+
+<id>: 4:6c2491da-222c-433a-a3da-327953072f31:145872
+airport_id: 2564
+altitude: 2459.0
+city: "Sao Paulo"
+country: "Brazil"
+distCity: 20126.895103653267
+dst: "S"
+iata: "GRU"
+icao: "SBGR"
+latitude: -23.435556411743164
+location: point({srid:4326, x:-46.47305679321289, y:-23.435556411743164})
+longitude: -46.47305679321289
+name: "Guarulhos - Governador André Franco Montoro International Airport"
+runways: 2.0
+runwaysLength: 10991.0
+runwaysWidth: 148.0
+source: "OurAirports"
+timezone: "-3"
+type: "airport"
+tz_database_timezone: "America/Sao_Paulo"
+
+CDG
+
+<id>: 4:6c2491da-222c-433a-a3da-327953072f31:144782
+airport_id: 1382
+altitude: 392.0
+city: "Paris"
+commercial_flights: 462816
+country: "France"
+distCity: 22707.192120846266
+dst: "E"
+iata: "CDG"
+icao: "LFPG"
+latitude: 49.012798
+location: point({srid:4326, x:2.55, y:49.012798})
+longitude: 2.55
+name: "Charles de Gaulle International Airport"
+runways: 4.0
+runwaysLength: 11331.25
+runwaysWidth: 172.5
+source: "OurAirports"
+timezone: "1"
+type: "airport"
+tz_database_timezone: "Europe/Paris"
+
+REC 
+
+<id>: 4:6c2491da-222c-433a-a3da-327953072f31:145916
+airport_id: 2610
+altitude: 33.0
+city: "Recife"
+country: "Brazil"
+distCity: 8903.172724867434
+dst: "S"
+iata: "REC"
+icao: "SBRF"
+latitude: -8.126489639282228
+location: point({srid:4326, x:-34.923599243164055, y:-8.126489639282228})
+longitude: -34.923599243164055
+name: "Guararapes - Gilberto Freyre International Airport"
+runways: 1.0
+runwaysLength: 9865.0
+runwaysWidth: 148.0
+source: "OurAirports"
+timezone: "-3"
+type: "airport"
+tz_database_timezone: "America/Fortaleza"
+
+FCO 
+
+<id>: 4:6c2491da-222c-433a-a3da-327953072f31:144950
+airport_id: 1555
+altitude: 13.0
+city: "Rome"
+commercial_flights: 313618
+country: "Italy"
+distCity: 23110.337699640237
+dst: "E"
+iata: "FCO"
+icao: "LIRF"
+latitude: 41.8002778
+location: point({srid:4326, x:12.2388889, y:41.8002778})
+longitude: 12.2388889
+name: "Leonardo da Vinci–Fiumicino Airport"
+runways: 4.0
+runwaysLength: 12067.25
+runwaysWidth: 171.75
+source: "OurAirports"
+timezone: "1"
+type: "airport"
+tz_database_timezone: "Europe/Rome"
+
+BVA
+<id>: 4:6c2491da-222c-433a-a3da-327953072f31:144767
+airport_id: 1367
+altitude: 359.0
+city: "Beauvais"
+commercial_flights: 39108
+country: "France"
+distCity: 3168.9160512322183
+dst: "E"
+iata: "BVA"
+icao: "LFOB"
+latitude: 49.45439910888672
+location: point({srid:4326, x:2.1127800941467285, y:49.45439910888672})
+longitude: 2.1127800941467285
+name: "Paris Beauvais Tillé Airport"
+runways: 2.0
+runwaysLength: 5798.5
+runwaysWidth: 123.0
+source: "OurAirports"
+timezone: "1"
+type: "airport"
+tz_database_timezone: "Europe/Paris"
+

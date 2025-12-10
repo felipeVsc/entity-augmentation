@@ -1,0 +1,12 @@
+airport_id: 2564
+altitude: 2459.0
+country: "Brazil"
+distCity: 20126.895103653267
+dst: "S"
+icao: "SBGR"
+latitude: -23.435556411743164
+location: point({srid:4326, x:-46.47305679321289, y:-23.435556411743164})
+longitude: -46.47305679321289
+runways: 2.0
+runwaysLength: 10991.0
+runwaysWidth: 148.0
